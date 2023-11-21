@@ -4,7 +4,7 @@ import com.devsuperior.dscommerce.dto.CustomError;
 import com.devsuperior.dscommerce.dto.ProductDTO;
 import com.devsuperior.dscommerce.services.ProductService;
 import com.devsuperior.dscommerce.services.exceptions.ResourceNotFoundException;
-import jakarta.validation.Valid;
+import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

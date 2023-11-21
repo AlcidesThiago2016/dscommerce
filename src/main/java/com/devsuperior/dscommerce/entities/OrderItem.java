@@ -1,8 +1,8 @@
 package com.devsuperior.dscommerce.entities;
 
-import jakarta.persistence.EmbeddedId;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
+import javax.persistence.EmbeddedId;
+import javax.persistence.Entity;
+import javax.persistence.Table;
 import org.aspectj.weaver.ast.Or;
 
 @Entity
